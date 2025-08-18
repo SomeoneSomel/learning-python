@@ -1,0 +1,8 @@
+print ("olá, mundo!")
+print ("eu sou Igor")
+print ("sou muito top!!")
+print ("estou criando minha mente algoritmica")
+print ("depois vou comer um burgão, mó fome")
+print ("pow, agora to com fome, foda")
+print ("mas bora lá, tenho que aguentar!!")
+print ("fiquei sem criatividade, triste")
